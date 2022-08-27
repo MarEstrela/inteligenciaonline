@@ -1,0 +1,163 @@
+  
+  /* fazer a mudança de cor no botao quando passar com o mouse*/
+
+  .avatarButton1 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/1.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+
+  .avatarButton2 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/2.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton3 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/3.png');
+    background-size: cover;
+    
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton4 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/4.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton5 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/5.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton6 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/6.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton7 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/7.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton8 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/8.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton9 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/9.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton10 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/10.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+
+  .avatarButton11 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/11.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton12 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/12.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton13 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/13.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .avatarButton14 {
+    width:100px;
+    height:100px;
+    background-image: url('../img/avatar/14.png');
+    background-size: cover;
+    border: 0ch;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+ 
+
+

@@ -1,0 +1,81 @@
+  
+  /* fazer a mudança de cor no botao quando passar com o mouse
+   0 - organica
+   1 - papel
+   2 - plastico
+   3 - eletronica
+   4 - metal
+   5 - vidro
+  
+  */
+
+  .lixeiraButton0 {
+    width:100px;
+    height:150px;
+   background-image: url('../img/organico/lixeiraorganicos.png');
+    background-size: cover;
+    display:block;
+    cursor: pointer;
+    border: none;
+  
+    
+  
+  }
+
+  .lixeiraButton1 {
+    width:100px;
+    height:150px;
+    background-image: url('../img/papel/lixeirapapel.png');
+    background-size: cover;
+    display: block;
+    z-index: 0;
+    cursor: pointer;
+    border: none;
+   
+  }
+  .lixeiraButton2 {
+    width:100px;
+    height:150px;
+    background-image: url('../img/plasticos/lixeiraplasticos.png');
+    background-size: cover;
+    display: block;
+    cursor: pointer;
+    border: none;
+    
+  }
+  .lixeiraButton3 {
+    width:100px;
+    height:150px;
+    background-image: url('../img/eletronico/lixeiraeletronicos.png');
+    background-size: cover;
+    display: block;
+    cursor: pointer;
+    border: none;
+   
+  }
+  .lixeiraButton4 {
+    width:100px;
+    height:150px;
+    
+   background-image: url('../img/metal/lixeirametais.png');
+    background-size: cover;
+    display: block;
+    cursor: pointer;
+    border: none;
+   
+  }
+  
+  .lixeiraButton5 {
+    width:100px;
+    height:150px;
+    background-image: url('../img/vidro/lixeiravidros.png');
+    background-size: cover;
+    display: block;
+    cursor: pointer;
+    border: none;
+    
+  }
+  
+ 
+
+

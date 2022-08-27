@@ -1,0 +1,92 @@
+  
+  /* fazer a mudança de cor no botao quando passar com o mouse*/
+
+  .faseButton1 {
+    width:50px;
+    height:50px;
+    background-image: url('../img/1.png');
+    background-size: cover;
+    border-radius: 40px;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+
+  .faseButton2 {
+    width:150px;
+    height:150px;
+    background-image: url('../img/avatar/2.png');
+    background-size: cover;
+    border-radius: 40px;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .faseButton3 {
+    width:150px;
+    height:150px;
+    background-image: url('../img/avatar/3.png');
+    background-size: cover;
+    border-radius: 40px;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .faseButton4 {
+    width:150px;
+    height:150px;
+    background-image: url('../img/avatar/4.png');
+    background-size: cover;
+    border-radius: 40px;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .faseButton5 {
+    width:150px;
+    height:150px;
+    background-image: url('../img/avatar/5.png');
+    background-size: cover;
+    border-radius: 40px;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .faseButton6 {
+    width:150px;
+    height:150px;
+    background-image: url('../img/avatar/6.png');
+    background-size: cover;
+    border-radius: 40px;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  .faseButton7{
+    width:150px;
+    height:150px;
+    background-image: url('../img/avatar/7.png');
+    background-size: cover;
+    border-radius: 40px;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    outline:#34fe92
+  }
+  
+ 
+
+
